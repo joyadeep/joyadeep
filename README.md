@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dev.joyadeep@gmail.com**
 
-- 📄 Know about my experiences [www.joyadeep.com.np](www.joyadeep.com.np)
+- 📄 Know about my experiences [www.joyadeep.com.np](https://www.joyadeep.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
