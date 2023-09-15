@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyadeep" alt="joyadeep" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [joyadeep.com.np](joyadeep.com.np)
+- 👨‍💻 All of my projects are available at [www.joyadeep.com.np](www.joyadeep.com.np)
 
 - 📫 How to reach me **dev.joyadeep@gmail.com**
 
-- 📄 Know about my experiences [joyadeep.com.np](joyadeep.com.np)
+- 📄 Know about my experiences [www.joyadeep.com.np](www.joyadeep.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
