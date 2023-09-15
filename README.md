@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyadeep" alt="joyadeep" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.joyadeep.com.np](www.joyadeep.com.np)
+- 👨‍💻 All of my projects are available at [www.joyadeep.com.np](https://www.joyadeep.com.np)
 
 - 📫 How to reach me **dev.joyadeep@gmail.com**
 
